@@ -2,7 +2,7 @@
 
 I am currently in my 3rd year of Computer Science at MacEwan University.
 
-I have a growing interest in full stack web development. Having taken a web application development course in the fall of 2020, I have immersed myself in learning and improving upon what I have learned by building upon a couple projects of my own.
+I have a growing interest in full stack web development. Having taken a web application development course in the fall of 2020, I have immersed myself in learning and improving upon what I have learned by building a couple projects of my own.
 
 On a little bit more personal side, I am a foodie. I genuinely feel that such an inescapable part of your daily life should be enjoyed whenever possible!
 
