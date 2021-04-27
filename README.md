@@ -12,8 +12,9 @@ I am currently focusing on improving my front-end development skills using React
 #### Reach me at
 
 <p float="left">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> 
+<a href="https://ca.linkedin.com/in/voncastro">  
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> ](mailto:castrov4@mymacewan.ca)
 </p>
 
 #### Follow my food adventures at
