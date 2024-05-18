@@ -1,13 +1,13 @@
 ### Hello, World! I'm Von Castro
 
-I am currently in my 3rd year of Computer Science at MacEwan University.
+I have graduated from my BSc in Computer Science in the fall of 2023.
 
 I have a growing interest in full stack web development. Having taken a web application development course in the fall of 2020, I have immersed myself in learning and improving upon what I have learned by building a couple projects of my own.
 
 On a little bit more personal side, I am a foodie. I genuinely feel that such an inescapable part of your daily life should be enjoyed whenever possible!
 
 ### What I'm focusing on
-I am currently focusing on improving my front-end development skills using ReactJS and CSS. I have been enjoying reading [Robin Wieruch's, "The Road to React".](https://www.roadtoreact.com/)
+I am currently focusing on finding software developer roles with the emphasis on web application development. 
 
 #### Reach me at
 
