@@ -2,7 +2,7 @@
 
 I have graduated from my BSc in Computer Science in the fall of 2023.
 
-I have a growing interest in full stack web development. Having taken a web application development course in the fall of 2020, I have immersed myself in learning and improving upon what I have learned by building a couple projects of my own.
+I have a growing interest in full stack web development. Having taken a web application development course in the fall of 2020, I have immersed myself in learning and improving upon what I have learned with projects and internship experience.
 
 On a little bit more personal side, I am a foodie. I genuinely feel that such an inescapable part of your daily life should be enjoyed whenever possible!
 
